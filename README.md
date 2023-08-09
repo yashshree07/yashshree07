@@ -1,16 +1,22 @@
-### Hi there 👋
+# Yashshree_Jangale
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi 👋, I'm Yashashree Jangale</h1>
+<h3 align="center">A passionate coder from India,Who willing to learn new things</h3>
 
-<!--
-**yashshree07/yashshree07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh7777&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh7777" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhesh7777" alt="siddhesh7777" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🌱 I’m currently learning ** Development| DSA | Web dev**
+
+
+- 📫 How to reach me **yashshreejangale07@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+
+
+
+<h3 align="left">Languages and Tools: Html,Css,Java,C++,OOPS,Github,MySql,Sql</h3>
+
